@@ -11,16 +11,16 @@
 
 
 // replace <<host>> with your database host name;
-$Ossn->host = '<<host>>';
+$Ossn->host = 'aws-0-ap-southeast-1.pooler.supabase.com';
 
 // replace <<port>> with your database host name;
-$Ossn->port = '<<port>>';
+$Ossn->port = '6543';
 
 // replace <<user>> with your database username;
-$Ossn->user = '<<user>>';
+$Ossn->user = 'postgres.tdbogzsxgngjnxuyekqd';
 
 // replace <<password>> with your database password;
-$Ossn->password = '<<password>>';
+$Ossn->password = 'Thazhdzvip.9';
 
 // replace <<dbname>> with your database name;
-$Ossn->database = '<<dbname>>';
+$Ossn->database = 'postgres';
